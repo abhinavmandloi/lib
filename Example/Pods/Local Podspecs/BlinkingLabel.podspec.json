@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of BlinkingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/abhinav.mandloi@mindstix.com/BlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "abhinav.mandloi@mindstix.com": "er.abhimandloi@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/abhinav.mandloi@mindstix.com/BlinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkingLabel/Classes/**/*"
+}
